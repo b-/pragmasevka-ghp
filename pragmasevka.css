@@ -1,0 +1,56 @@
+@font-face {
+	font-family: 'pragmasevka';
+	font-style: normal;
+	font-weight: normal;
+	src: url('pragmasevka-nf-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'pragmasevka regular';
+	font-style: normal;
+	font-weight: normal;
+	src: url('pragmasevka-nf-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'pragmasevka';
+	font-style: normal;
+	font-weight: bold;
+	src: url('pragmasevka-nf-bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'pragmasevka bold';
+	font-style: normal;
+	font-weight: bold;
+	src: url('pragmasevka-nf-bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'pragmasevka';
+	font-style: italic;
+	font-weight: normal;
+	src: url('pragmasevka-nf-italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'pragmasevka italic';
+	font-style: italic;
+	font-weight: normal;
+	src: url('pragmasevka-nf-italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'pragmasevka bold italic';
+	font-style: italic;
+	font-weight: bold;
+	src: url('pragmasevka-nf-bolditalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'pragmasevka';
+	font-style: italic;
+	font-weight: bold;
+	src: url('pragmasevka-nf-bolditalic.ttf') format('truetype');
+}
+
